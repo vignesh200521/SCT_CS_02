@@ -22,7 +22,7 @@ A lightweight Python GUI application for encrypting and decrypting images using 
 Installation
 
 '''bash
-git clone https://github.com/yourusername/image-encrypt-gui.git
+git clone https://github.com/vignesh200521/image-encrypt-gui.git
 cd image-encrypt-gui
 python3 image_encrypt_gui.py
  Usage
